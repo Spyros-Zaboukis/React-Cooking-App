@@ -6,3 +6,5 @@ This is a web application that offers the user the possibility of seeing meals a
 She uses a Meals API here: https://www.themealdb.com/api.php
 Ajax calls are made with Axios.
 The website is stylized in pure and responsive design CSS.
+
+By Spyros Zaboukis
