@@ -1,0 +1,48 @@
+.principalTitle{
+    color : rgb(208, 111, 51);
+    text-transform: uppercase;
+    font-size: 2.4em;
+}
+
+.searchBar{
+ border: 1px solid rgb(208, 111, 51) ;   
+ width : 40em;
+ height: 2em;
+}
+
+.header{
+    text-align: center;
+}
+
+.containerMeals{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    gap : 1em;
+    justify-content: center;
+}
+
+.imgIllu{
+    width: 20em;
+}
+
+.titleMeal{
+    color : rgb(208, 111, 51);
+    text-align: center;
+}
+
+.buttonEnter{
+    margin-left: 35%;
+    background-color: rgb(245, 149, 89);
+    color: white; 
+    border-radius: 1em;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.meal{
+    border : 1px solid rgb(208, 111, 51) ; 
+    border-radius: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
